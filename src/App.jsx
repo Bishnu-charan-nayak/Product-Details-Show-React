@@ -7,7 +7,7 @@ function App() {
       <ProductTab
         title="Logitech MX Master 3S"
         features={["8000 DPI", "5 Programmable Buttons"]}
-        oldPrice="₹12495"
+        oldPrice="₹12490"
         newPrice="₹8999"
       />
 
