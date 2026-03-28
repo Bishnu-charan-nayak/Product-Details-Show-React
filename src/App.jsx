@@ -14,14 +14,14 @@ function App() {
       <ProductTab
         title="Apple Pencil (2nd Gen)"
         features={["Intuitive touch surface", "Designed for iPad Pro"]}
-        oldPrice="₹11900"
-        newPrice="₹9199"
+        oldPrice="₹11999"
+        newPrice="₹9999"
       />
       <ProductTab
         title="Zebronics zeb-Transformer"
         features={["Intuitive touch surface", "Designed for ipad Pro"]}
         oldPrice="₹1599"
-        newPrice="₹899"
+        newPrice="₹999"
       />
       <ProductTab
         title="Portronics Toad 23 Wireless Mouse"
