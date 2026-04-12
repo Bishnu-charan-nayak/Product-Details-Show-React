@@ -15,7 +15,7 @@ function App() {
         title="Apple Pencil (2nd Gen)"
         features={["Intuitive touch surface", "Designed for iPad Pro"]}
         oldPrice="₹11999"
-        newPrice="₹9989"
+        newPrice="₹9889"
       />
       <ProductTab
         title="Zebronics zeb-Transformer"
