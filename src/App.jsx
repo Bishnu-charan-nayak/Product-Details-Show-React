@@ -27,7 +27,7 @@ function App() {
         title="Portronics Toad 23 Wireless Mouse"
         features={["Wireless Mouse 2.4GHz", "Optical Orientation"]}
         oldPrice="₹599"
-        newPrice="₹278"
+        newPrice="₹279"
       />
 
 
